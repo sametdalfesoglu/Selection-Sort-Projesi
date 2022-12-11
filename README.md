@@ -18,7 +18,6 @@ Best case: Aradığımız sayının dizinin en başında olması.
 Bu açıklamalar doğrultusunda "Average case" kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] 
-
 1. adım;
 [2,3,5,8,7,9,4,15,6]
 
